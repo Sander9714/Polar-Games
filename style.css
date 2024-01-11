@@ -92,7 +92,19 @@ h3 {
   justify-content: flex-start;
   margin-left: 40px;
 }
+
+.section42 {
+  display: flex;
+  flex-direction: row;
+}
 .p2 {
   margin-left: 40px;
   padding-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+}
+.lab {
+  width: 500px;
+  height: 600px;
+  margin-left: 40px;
 }
