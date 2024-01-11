@@ -64,3 +64,35 @@ p {
 h3 {
   transform: translate(200px, -20px);
 }
+.section4 {
+  background-color: black;
+  color: green;
+  border-top-style: ridge;
+  border-top-color: green;
+  border-top-width: 10px;
+}
+.frankenstein {
+  width: 500px;
+  height: auto;
+  border-color: green;
+  border-width: 10px;
+  border-style: ridge;
+}
+.beskrivelse {
+  font-size: 15px;
+  width: 1125px;
+  transform: translate(500px, -20px);
+}
+.spilltittel {
+  margin-top: 30px;
+  padding-top: 50px;
+}
+.h2two {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 40px;
+}
+.p2 {
+  margin-left: 40px;
+  padding-bottom: 50px;
+}
