@@ -30,7 +30,7 @@ ul {
   list-style-type: none;
 }
 li {
-  margin-left: 90px;
+  margin-left: 60px;
   margin-right: 50px;
   font-size: 30px;
 }
@@ -70,6 +70,10 @@ h3 {
   border-top-style: ridge;
   border-top-color: green;
   border-top-width: 10px;
+}
+.tittel {
+  width: 1000px;
+  height: auto;
 }
 .frankenstein {
   width: 500px;
