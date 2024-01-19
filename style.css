@@ -74,6 +74,10 @@ h3 {
 .tittel {
   width: 1000px;
   height: auto;
+  margin-top: 30px;
+  padding-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
 }
 .frankenstein {
   width: 500px;
@@ -85,12 +89,9 @@ h3 {
 .beskrivelse {
   font-size: 15px;
 
-  transform: translate(500px, -20px);
+  transform: translate(430px, -20px);
 }
-.spilltittel {
-  margin-top: 30px;
-  padding-top: 50px;
-}
+
 .h2two {
   display: flex;
   justify-content: flex-start;
@@ -108,8 +109,8 @@ h3 {
   flex-direction: column;
 }
 .lab {
-  width: 500px;
-  height: 500px;
+  width: 400px;
+  height: 400px;
   margin-left: 40px;
 }
 .section5 {
